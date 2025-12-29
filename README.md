@@ -12,6 +12,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sathvikvalivety&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+##📈 CONTRIBUTION GRAPH
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikvalivety&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sathvikvalivety&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
