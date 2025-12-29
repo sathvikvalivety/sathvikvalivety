@@ -17,8 +17,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikvalivety&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sathvikvalivety&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sathvikvalivety&icon=0&color=0)](https://visitcount.itsvg.in)
